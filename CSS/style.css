@@ -1,0 +1,12 @@
+:root{
+    --prymary-color: #161616;
+    --secondary-color: #FFFFFF;
+    --prymary-font: 'Poppins', sans-serif;
+    --secondary-font: 'Inter', sans-serif;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', 'Inter', sans-serif;
+}
