@@ -16,7 +16,7 @@
     width: 1321px;
     display: flex;
     justify-content: flex-start;
-    margin: 130px 140px 130px 207px;
+    margin: 130px 140px 130px 294px;
 }
     /* Header styles  */
 .headers{
@@ -240,7 +240,7 @@ footer > hr{
     .container{
         flex-direction: column;
         width: 100%;
-        margin: 0;
+        margin: 15px 0;
         align-items: center;
     }
     .headers{
