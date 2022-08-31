@@ -292,7 +292,6 @@ footer > hr{
         align-items: center;
     }
     .headers{
-        /* width: 734px; */
         margin-top: 50px;
     }
     .header{
@@ -303,7 +302,7 @@ footer > hr{
         font-size: 40px;
     }
     .sidebar{
-        width: 83%;
+        width: 70%;
         height: 50px;
         background-color: var(--secondary-color);
         margin: 50px 0;
@@ -313,6 +312,7 @@ footer > hr{
     }
     .blogs-cards{
         grid-template-columns: repeat(2, 1fr);
+        gap: 10px;
     }
     .blogs-tab{
         display: none;
